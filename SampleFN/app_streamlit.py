@@ -5,9 +5,9 @@ from sentence_transformers import SentenceTransformer, util
 import re
 
 
-API_KEY = "AIzaSyB57jy8RG8MlWIX7-VixGG1SgW3Aqk2Buk"
-SEARCH_ENGINE_ID = "163c498720b6249f5"
-COHERE_API_KEY = "Zr62RFlhBT40Ri8SzRjL6xcR7DS2QHiEhtyIzOga"
+API_KEY
+SEARCH_ENGINE_ID
+COHERE_API_KEY
 
 
 co = cohere.Client(COHERE_API_KEY)
